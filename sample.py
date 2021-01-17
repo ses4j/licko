@@ -33,3 +33,15 @@ while True:
     # don't let this loop use 100% CPU
     sleep(0.2)
     
+    ## can you see this?
+    ## yep! this is awesome - cool, one sec
+    
+    
+
+    ## if you add the "live share audio" we might be able to talk,. it's a separate plugin
+
+    
+    ### ZOE!!! CAN YOU SEE THIS?
+
+
+    ## #!!!!!
